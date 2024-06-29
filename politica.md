@@ -9,7 +9,6 @@ Podemos coletar as seguintes informações quando você interage com o Bot:
 
 - **Informações de Identificação Pessoal:** Nome de usuário, ID do Discord e qualquer outra informação que você decida compartilhar voluntariamente.
 - **Dados de Uso:** Informações sobre como você utiliza o Bot, incluindo comandos executados, frequência de uso e interações com o Bot.
-- **Informações de Dispositivo:** Dados sobre o dispositivo e a conexão usados para acessar o Bot, como tipo de dispositivo, sistema operacional e tipo de navegador.
 
 #### 2. Como Usamos Suas Informações
 Usamos as informações coletadas para as seguintes finalidades:
