@@ -20,7 +20,7 @@ Você concorda em usar o Bot apenas para fins legais e de acordo com estes Termo
 - Coletar ou armazenar dados pessoais de outros usuários sem a devida autorização.
 
 #### 5. Privacidade
-Ao utilizar o Bot, você concorda com a coleta e uso de informações de acordo com nossa Política de Privacidade. [Inclua um link para a Política de Privacidade, se aplicável].
+Ao utilizar o Bot, você concorda com a coleta e uso de informações de acordo com nossa Política de Privacidade. https://github.com/R0htg0r/Zindoth/blob/main/politica.md.
 
 #### 6. Isenção de Garantias
 O Bot é fornecido "como está" e "conforme disponível". Não garantimos que o Bot será ininterrupto ou livre de erros. Não oferecemos garantias de qualquer tipo, expressas ou implícitas, quanto à operação do Bot ou às informações, conteúdo ou materiais incluídos no Bot.
