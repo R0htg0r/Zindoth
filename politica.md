@@ -2,7 +2,7 @@
 
 **Data de Vigência: 28/06/2024**
 
-Bem-vindo ao Zindoth! Sua privacidade é importante para nós. Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e protegemos suas informações ao utilizar o Zindoth ("Bot"). Ao usar o Bot, você concorda com as práticas descritas nesta Política de Privacidade. Se você não concorda com esta Política, por favor, não utilize o Bot.
+Bem-vindo ao Zindoth! Sua privacidade é importante para nós. Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e protegemos suas informações ao utilizar o Zindoth. Ao usar o Bot, você concorda com as práticas descritas nesta Política de Privacidade. Se você não concorda com esta Política, por favor, não utilize o Bot.
 
 #### 1. Informações que Coletamos
 Podemos coletar as seguintes informações quando você interage com o Bot:
@@ -32,7 +32,7 @@ Tomamos medidas razoáveis para proteger suas informações contra perda, roubo,
 Reteremos suas informações pessoais apenas pelo tempo necessário para cumprir as finalidades para as quais foram coletadas, incluindo para fins de conformidade com requisitos legais, contábeis ou de relatório.
 
 #### 6. Seus Direitos
-Você tem o direito de acessar, corrigir, atualizar ou solicitar a exclusão de suas informações pessoais. Para exercer esses direitos, entre em contato conosco em [Seu E-mail ou Meio de Contato].
+Você tem o direito de acessar, corrigir, atualizar ou solicitar a exclusão de suas informações pessoais. Para exercer esses direitos, entre em contato conosco em zindoth@gmail.com.
 
 #### 7. Crianças e Privacidade
 Nosso Bot não se destina a crianças menores de 13 anos. Não coletamos intencionalmente informações pessoais de crianças menores de 13 anos. Se tomarmos conhecimento de que coletamos informações pessoais de uma criança menor de 13 anos sem verificação do consentimento dos pais, tomaremos medidas para remover essas informações de nossos servidores.
@@ -41,7 +41,7 @@ Nosso Bot não se destina a crianças menores de 13 anos. Não coletamos intenci
 Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Recomendamos que você revise esta Política periodicamente para se manter informado sobre como estamos protegendo suas informações.
 
 #### 9. Contato
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou nossas práticas de privacidade, entre em contato conosco em [Seu E-mail ou Meio de Contato].
+Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou nossas práticas de privacidade, entre em contato conosco em zindoth@gmail.com.
 
 ---
 
